@@ -6,6 +6,7 @@ expr = 0
 var = 0
 
 def sym(expr, var):
+    '''Algebra helper when tough times are ahead'''
 
     if not expr:
         expr = input("Enter equation to solve:\n")
